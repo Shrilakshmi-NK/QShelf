@@ -1,4 +1,4 @@
-# 🎬 VideoMark — YouTube Video Bookmarker
+# 🎬 QShelf — YouTube Video Bookmarker
 
 A full-stack web app for students and researchers to save YouTube videos
 with timestamps, track watch progress, and organize bookmarks into folders.
